@@ -1,0 +1,10 @@
+Anthony Bridgerton
+Data Science Student
+
+Skills:
+Python, Machine Learning, Pandas, SQL, Data Visualization, Azure
+
+Experience:
+Built regression models.
+Worked on real estate AI project.
+Created dashboards in Power BI.

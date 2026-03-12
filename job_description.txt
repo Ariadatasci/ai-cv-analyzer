@@ -1,0 +1,9 @@
+We are looking for a Data Scientist.
+
+Required Skills:
+Python
+Machine Learning
+SQL
+Deep Learning
+Power BI
+Azure

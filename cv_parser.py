@@ -1,0 +1,13 @@
+import spacy
+
+nlp = spacy.load("en_core_web_sm")
+
+def extract_keywords(text):
+    doc = nlp(text.lower())
+    keywords = []
+
+    for token in doc:
+        if token.is_alpha and not token.is_stop:
+            keywords.append(token.lemma_)
+
+    return list(set(keywords))
